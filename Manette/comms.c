@@ -27,6 +27,10 @@ uint8_t combine_bool(bool S1,bool S2,bool S3,bool S4,bool S5,bool S6,bool S7)
     return buttonsByte;
 }
 
+void fonctionbatard(){
+    //rien
+}
+
 /*
 *Méthode qui recoit 4 entiers non signé de 8 bit chacuns et envoie Au module Wi-FI un paquet les contenant en utilisant le port recu en parametre
 */
